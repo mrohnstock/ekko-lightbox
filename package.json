@@ -1,7 +1,7 @@
 {
     "name": "drmonty-ekko-lightbox",
     "description": "A lightbox gallery plugin for Bootstrap 3 based on the modal plugin",
-    "version": "3.3.1",
+    "version": "3.3.2",
     "homepage": "https://github.com/ashleydw/lightbox",
     "authors": [
         {

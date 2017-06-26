@@ -26,14 +26,18 @@
     "extra": {
         "component": {
             "scripts": [
-                "js/ekko-lightbox.js"
+                "js/ekko-lightbox.js",
+                "js/ekko-lightbox.min.js"
             ],
             "styles": [
-                "css/ekko-lightbox.css"
+                "css/ekko-lightbox.css",
+                "css/ekko-lightbox.min.css"
             ],
             "files": [
-                "js/ekko-lightbox.min.js",
-                "css/ekko-lightbox.min.css"
+                "js/ekko-lightbox.min.js.map",
+                "js/ekko-lightbox.js.map",
+                "css/ekko-lightbox.css.map",
+                "css/ekko-lightbox.min.css.map"
             ]
         }
     }

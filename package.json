@@ -12,7 +12,7 @@
     "support": {
         "issues": "https://github.com/ashleydw/lightbox/issues"
     },
-    "license": "GNU GENERAL PUBLIC LICENSE",
+    "license": "MIT",
     "main": "js/ekko-lightbox.js",
     "repository": {
         "type": "git",

@@ -18,7 +18,7 @@
     "support": {
         "issues": "https://github.com/ashleydw/lightbox/issues"
     },
-    "license": "GNU GENERAL PUBLIC LICENSE",
+    "license": "MIT",
     "type": "component",
     "require": {
         "robloach/component-installer": "*"

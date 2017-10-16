@@ -30,14 +30,11 @@
                 "js/ekko-lightbox.min.js"
             ],
             "styles": [
-                "css/ekko-lightbox.css",
-                "css/ekko-lightbox.min.css"
+                "css/ekko-lightbox.css"
             ],
             "files": [
                 "js/ekko-lightbox.min.js.map",
-                "js/ekko-lightbox.js.map",
-                "css/ekko-lightbox.css.map",
-                "css/ekko-lightbox.min.css.map"
+                "js/ekko-lightbox.js.map"
             ]
         }
     }
